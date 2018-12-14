@@ -1,5 +1,6 @@
 # Blog Kolaborasi Komunitas R Indonesia
-**Pra-syarat**
+
+**Pra-syarat:**
 
 * R
 * RStudio
@@ -20,7 +21,7 @@ git push origin master
 ```
 6. (Tambahan) silakan mengajukan diri sebagai kolaborator dalam repositori ini
 
-**Kebutuhan saat ini**
-1. Logo
+**Kebutuhan saat ini:**
+1. Logo (preferensi: hexsticker)
 2. Konten tulisan
 3. Kustomusasi UI (jika dianggap perlu)
