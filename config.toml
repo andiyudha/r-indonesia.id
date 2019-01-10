@@ -1,4 +1,4 @@
-baseURL = "https://indo-r.github.io"
+baseURL = "https://indo-r.netlify.com"
 languageCode = "en-us"
 title = "R Indonesia"
 description = "Blog Kolaborasi Komunitas R Indonesia"
