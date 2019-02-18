@@ -18,13 +18,13 @@
 4. Buat konten dengan klik 'Addins - New Post' pada RStudio. Pilih archetypes 'post' jika ingin menambahkan konten berupa blog dan 'project' untuk konten berupa (laman) proyek
 5. Buat perubahan yang diperlukan untuk situs web
 6. Jalankan kode `blogdown::build_site()`
-6. Jalankan rutin
+7. Jalankan rutin
 ```
 git add -all
 git commit -m "pesan perubahan"
 git push origin master
 ```
-7. Buat *pull-request* ke repositori indo-r/laman-web
+8. Buat *pull-request* ke repositori indo-r/laman-web
 
 **Kebutuhan saat ini:**
 1. Konten tulisan
