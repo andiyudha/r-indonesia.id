@@ -2,7 +2,7 @@
 title: "Import Data (Part 1)"
 author: "Aep Hidayatuloh"
 date: '2019-02-18'
-draft: yes
+draft: false
 slug: import-data-part-1
 tags:
 - import
