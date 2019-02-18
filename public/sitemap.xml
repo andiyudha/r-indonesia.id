@@ -3,77 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.r-indonesia.id/project/sensehub/</loc>
+    <loc>https://r-indonesia.id/project/sensehub/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/2019/02/18/import-data-part-1/</loc>
+    <loc>https://r-indonesia.id/2019/02/18/import-data-part-1/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/categories/basic/</loc>
-    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.r-indonesia.id/categories/</loc>
+    <loc>https://r-indonesia.id/categories/basic/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/tags/data/</loc>
+    <loc>https://r-indonesia.id/categories/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/tags/import/</loc>
+    <loc>https://r-indonesia.id/tags/data/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/post/</loc>
+    <loc>https://r-indonesia.id/tags/import/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/project/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.r-indonesia.id/categories/r/</loc>
+    <loc>https://r-indonesia.id/post/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/</loc>
+    <loc>https://r-indonesia.id/project/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/tags/sensoris/</loc>
+    <loc>https://r-indonesia.id/categories/r/</loc>
+    <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://r-indonesia.id/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/tags/shinyapps/</loc>
+    <loc>https://r-indonesia.id/tags/sensoris/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.r-indonesia.id/tags/</loc>
+    <loc>https://r-indonesia.id/tags/shinyapps/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://r-indonesia.id/tags/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
