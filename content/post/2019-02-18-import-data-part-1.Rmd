@@ -1,0 +1,60 @@
+---
+title: "Import Data (Part 1)"
+author: "Aep Hidayatuloh"
+date: '2019-02-18'
+draft: yes
+slug: import-data-part-1
+tags:
+- import
+- data
+categories:
+- R
+- Basic
+---
+
+Ada banyak cara untuk membaca atau mengimpor dataset eksternal ke dalam R. Ini adalah bagian pertama dari seri posting membaca dataset. Dalam posting ini kita akan melihat cara membaca dataset dari file eksternal menggunakan fungsi basis R (built-in).
+
+## Impor dari file CSV menggunakan `read.csv()` dan `read.csv2()`
+
+CSV adalah salah satu format yang paling sering digunakan untuk menyimpan dataset sebagai file eksternal dan sebagian besar (jika saya tidak diizinkan untuk mengatakan semua) perangkat lunak atau alat analisis yang dapat membacanya. Jika Anda memiliki data dalam file CSV, maka Anda dapat mengimpor data ke R dengan `read.csv()` atau `read.csv2()`. Dua fungsi ini melakukan tindakan yang sama, yaitu membaca data dari file CSV dan membuat dataframe dalam R dari data tersebut.
+
+Perbedaan dari kedua fungsi ini adalah separator atau delimiter yang digunakan. Fungsi `read.csv()` menggunakan koma (,) sebagai pemisah antara setiap kolom, dan `read.csv2()` menggunakan tanda koma (;) sebagai delimiter. Namun, Anda dapat menentukan pemisah alih-alih menggunakan pemisah default. Jika Anda ingin menggunakan `read.csv()` tetapi pemisahnya adalah titik koma (;), maka gunakan `sep = ";"` sebagai argumen dari fungsi `read.csv()`.
+
+Sebagai contoh:
+
+```{r eval=FALSE}
+dtf <- read.csv(file = "path/ke/file.csv", header = TRUE, sep = ";")
+```
+
+Argumen pertama dari `read.csv()` adalah lokasi penuh atau relatif dari file csv yang akan Anda gunakan. Argumen kedua, `header = TRUE`, untuk menentukan apakah baris pertama file adalah nama kolom atau header. Anda dapat menggunakan `header = T`, T adalah singkatan untuk TRUE (F untuk FALSE). Kemudian gunakan `sep =` sebagai argumen untuk menentukan pemisah.
+
+### 1. Baca File Lokal
+
+Jika file CSV terletak di mesin lokal Anda, misalnya terletak di (windows) *D: /folder/sub1/subsub1/dataset.csv*, baris pertama adalah nama kolom dan delimiternya adalah koma, maka untuk impor data tersebut menjadi data.frame di R adalah
+```{r eval=FALSE}
+dtf <- read.csv(file = "D:/folder/sub1/subsub1/dataset.csv", header = T)
+```
+
+Jika direktori kerja R Anda ada di *D:/folder/sub1*, maka Anda dapat menggunakan lokasi relatif sebagai berikut.
+```{r eval=FALSE}
+dtf <- read.csv(file = "subsub1/dataset.csv", header = T)
+```
+
+### 2. Baca Dari URL
+
+Ada banyak set data yang tersedia di internet. Yang dapat Anda temukan dengan mudah ada di GitHub.com. Misalnya, kita akan menggunakan dataset mtcars di https://github.com/aephidayatuloh/description_v1/blob/master/mtcars.csv.
+
+Cukup tempatkan URL file CSV ke `file =` argumen.
+```{r eval=FALSE}
+url <- 'https://github.com/aephidayatuloh/description_v1/blob/master/mtcars.csv'
+dtf <- read.csv (file = url, header = T)
+```
+
+
+Catatan: Anda harus memiliki koneksi internet dan pastikan Anda memiliki akses ke file tersebut.
+
+Kode di atas akan membaca file CSV dan membuat dataframe tanpa mengunduh sebagai file fisik ke mesin lokal Anda.
+
+Itulah cara pertama Anda dapat mengimpor file CSV dari mesin lokal Anda atau di URL yang dikenal menjadi dataframe di R.
+
+Jika Anda memiliki masalah atau menemukan kesalahan ketik atau apa pun, jangan ragu untuk menghubungi saya.
