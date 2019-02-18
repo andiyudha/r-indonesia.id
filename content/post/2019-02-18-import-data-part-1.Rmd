@@ -58,3 +58,9 @@ Kode di atas akan membaca file CSV dan membuat dataframe tanpa mengunduh sebagai
 Itulah cara pertama Anda dapat mengimpor file CSV dari mesin lokal Anda atau di URL yang dikenal menjadi dataframe di R.
 
 Jika Anda memiliki masalah atau menemukan kesalahan ketik atau apa pun, jangan ragu untuk menghubungi saya.
+
+---
+
+**Penulis:** [Aep Hidayatuloh](https://t.me/aephidayatuloh)
+
+**GitHub:** https://github.com/aephidayatuloh
