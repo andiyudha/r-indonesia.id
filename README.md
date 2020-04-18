@@ -20,7 +20,7 @@
 6. Jalankan kode `blogdown::build_site()`
 7. Jalankan rutin
 ```
-git add -all
+git add --all
 git commit -m "pesan perubahan"
 git push origin master
 ```

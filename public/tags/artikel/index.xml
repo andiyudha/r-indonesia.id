@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artikel on R Indonesia</title>
+    <link>/tags/artikel/</link>
+    <description>Recent content in artikel on R Indonesia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/artikel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kontribusi</title>
+      <link>/kontribusi/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/kontribusi/</guid>
+      <description>Langkah awal Web ini dibangun secara gotong-royong menggunakan static page generator Hugo yang dikelola melalui R menggunakan paket blogdown dan version control git. Sehingga untuk ikut berkontribusi dalam mengembangkan web komunitas ini, ada beberapa hal yang perlu dipersiapkan untuk bisa membangun web lewat &amp;lsquo;.Rproj&amp;rsquo;.
+Prasyarat  R RStudio Paket blogdown Git dan akun Github Hugo (bisa dipasang menggunakan paket blogdown: blogdown::install_hugo())  Bila prasyarat ini sudah terpenuhi, berikutnya teman-teman bisa ikut berkontribusi dalam hal apapun.</description>
+    </item>
+    
+  </channel>
+</rss>

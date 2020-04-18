@@ -1,49 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R Indonesia</title>
-    <link>https://r-indonesia.id/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on R Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://r-indonesia.id/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Data</title>
-      <link>https://r-indonesia.id/tags/data/</link>
+      <title>artikel</title>
+      <link>/tags/artikel/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/artikel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kontribusi</title>
+      <link>/tags/kontribusi/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kontribusi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>/tags/data/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/tags/data/</guid>
+      <guid>/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Import</title>
-      <link>https://r-indonesia.id/tags/import/</link>
+      <title>import</title>
+      <link>/tags/import/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/tags/import/</guid>
+      <guid>/tags/import/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sensoris</title>
-      <link>https://r-indonesia.id/tags/sensoris/</link>
+      <title>sensoris</title>
+      <link>/tags/sensoris/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/tags/sensoris/</guid>
+      <guid>/tags/sensoris/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shinyapps</title>
-      <link>https://r-indonesia.id/tags/shinyapps/</link>
+      <title>shinyapps</title>
+      <link>/tags/shinyapps/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/tags/shinyapps/</guid>
+      <guid>/tags/shinyapps/</guid>
       <description></description>
     </item>
     

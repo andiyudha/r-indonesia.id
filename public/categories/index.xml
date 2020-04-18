@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R Indonesia</title>
-    <link>https://r-indonesia.id/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on R Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://r-indonesia.id/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Basic</title>
-      <link>https://r-indonesia.id/categories/basic/</link>
+      <link>/categories/basic/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/categories/basic/</guid>
+      <guid>/categories/basic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://r-indonesia.id/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     

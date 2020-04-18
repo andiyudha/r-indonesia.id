@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on R Indonesia</title>
-    <link>https://r-indonesia.id/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on R Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://r-indonesia.id/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Import Data (Part 1)</title>
-      <link>https://r-indonesia.id/2019/02/18/import-data-part-1/</link>
+      <link>/2019/02/18/import-data-part-1/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/2019/02/18/import-data-part-1/</guid>
+      <guid>/2019/02/18/import-data-part-1/</guid>
       <description>Ada banyak cara untuk membaca atau mengimpor dataset eksternal ke dalam R. Ini adalah bagian pertama dari seri posting membaca dataset. Dalam posting ini kita akan melihat cara membaca dataset dari file eksternal menggunakan fungsi basis R (built-in).
 Impor dari file CSV menggunakan read.csv() dan read.csv2() CSV adalah salah satu format yang paling sering digunakan untuk menyimpan dataset sebagai file eksternal dan sebagian besar (jika saya tidak diizinkan untuk mengatakan semua) perangkat lunak atau alat analisis yang dapat membacanya.</description>
     </item>

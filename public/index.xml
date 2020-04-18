@@ -1,22 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Indonesia</title>
-    <link>https://r-indonesia.id/</link>
+    <link>/</link>
     <description>Recent content on R Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://r-indonesia.id/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Kontribusi</title>
+      <link>/kontribusi/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/kontribusi/</guid>
+      <description>Langkah awal Web ini dibangun secara gotong-royong menggunakan static page generator Hugo yang dikelola melalui R menggunakan paket blogdown dan version control git. Sehingga untuk ikut berkontribusi dalam mengembangkan web komunitas ini, ada beberapa hal yang perlu dipersiapkan untuk bisa membangun web lewat &amp;lsquo;.Rproj&amp;rsquo;.
+Prasyarat  R RStudio Paket blogdown Git dan akun Github Hugo (bisa dipasang menggunakan paket blogdown: blogdown::install_hugo())  Bila prasyarat ini sudah terpenuhi, berikutnya teman-teman bisa ikut berkontribusi dalam hal apapun.</description>
+    </item>
+    
+    <item>
       <title>SenseHub - Basic</title>
-      <link>https://r-indonesia.id/project/sensehub/</link>
+      <link>/project/sensehub/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/project/sensehub/</guid>
+      <guid>/project/sensehub/</guid>
       <description>SenseHub Merupakan aplikasi web terintegrasi untuk analisis sensoris
 Pranala https://aswansyahutra.shinyapps.io/sensehub_basic
 Repositori https://github.com/sensolution.id/sensehub_basic
@@ -25,10 +35,10 @@ Kontributor Muhammad Aswan Syahputra</description>
     
     <item>
       <title>Import Data (Part 1)</title>
-      <link>https://r-indonesia.id/2019/02/18/import-data-part-1/</link>
+      <link>/2019/02/18/import-data-part-1/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/2019/02/18/import-data-part-1/</guid>
+      <guid>/2019/02/18/import-data-part-1/</guid>
       <description>Ada banyak cara untuk membaca atau mengimpor dataset eksternal ke dalam R. Ini adalah bagian pertama dari seri posting membaca dataset. Dalam posting ini kita akan melihat cara membaca dataset dari file eksternal menggunakan fungsi basis R (built-in).
 Impor dari file CSV menggunakan read.csv() dan read.csv2() CSV adalah salah satu format yang paling sering digunakan untuk menyimpan dataset sebagai file eksternal dan sebagian besar (jika saya tidak diizinkan untuk mengatakan semua) perangkat lunak atau alat analisis yang dapat membacanya.</description>
     </item>
