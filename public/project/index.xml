@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on R Indonesia</title>
-    <link>https://r-indonesia.id/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on R Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://r-indonesia.id/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SenseHub - Basic</title>
-      <link>https://r-indonesia.id/project/sensehub/</link>
+      <link>/project/sensehub/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://r-indonesia.id/project/sensehub/</guid>
+      <guid>/project/sensehub/</guid>
       <description>SenseHub Merupakan aplikasi web terintegrasi untuk analisis sensoris
 Pranala https://aswansyahutra.shinyapps.io/sensehub_basic
 Repositori https://github.com/sensolution.id/sensehub_basic
